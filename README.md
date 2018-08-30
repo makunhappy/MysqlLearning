@@ -1,0 +1,2 @@
+# MysqlLearning
+just for learning
